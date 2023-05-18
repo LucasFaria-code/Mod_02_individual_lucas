@@ -3,12 +3,12 @@
 ##  Projeto individual modulo 2  (Resilia)
 
 ## descrição do projeto
-Uma startup está desenvolvendo um aplicativo que verifica a compatibilidade de um candidato com uma vaga de acordo com seu resultado nas etapas do processo seletivo. Para isso foi criado um teste que devolve uma string no seguinte formato: e _t _p _s (sendo que cada espaço é substituído pela avaliação da pessoa em uma das etapas do processo - entrevista, teste teórico, teste prático e avaliação de soft skills).    
+Esse sistema verifica a compatibilidade de um candidato com a vaga de acordo com o resultado nas etapas do processo seletivo. Para isso foi criado um teste que desenvolve uma string no seguinte formato: e _t _p _s, insirindo um valor a cada novo processo seguido pelas perguntas da entrevista, teste teórico, teste prático e avaliação de soft skills.    
 
 ##  status  do projeto:  Finalizado
 
 ##  Funcionalidade e demosntração:
-Foi criado com Python uma lista para armazenar resultados (e outros resultados que quiserem no mesmo formato, o código precisa funcionar para qualquer lista que seja inserida nesse formato) e depois uma função que busca o candidato de acordo com os critérios digitados pelo usuário. O usuário vai informar qual a nota mínima de e, t, pes que ele deseja buscar, nossa aplicação fica listado quem são os candidatos disponíveis com nota maior ou igual a essas derrotas pelo usuário.
+O avaliador insere todos os candidatos, iniciando pelo candidato 1, onde recebe as 4 avaliacoes alcançadas no processo, e finalizado o sistema é informado se quer proceguir ou não com mais candidatos. Ao final de inserir e impresso o resultado dos aprovados, de acordo com uma nova apuração de qual candidato se destacou e em qual área filtrar.
 
 
 
