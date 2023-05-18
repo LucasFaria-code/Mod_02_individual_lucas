@@ -1,8 +1,6 @@
 def titulo(msg):
-        print()
         print(f'{msg}')  
        
-
 def lista_candidato(candidato):
     global result, lista_aprovados
     for i in range(len(candidato)):
@@ -18,7 +16,6 @@ def lista_candidato(candidato):
     for c in range(len(result)):
         print(f'{result[c][:13]:.<18}', end='')
         print(f'{result[c][13:]}')
-    
 
 def aprovados(criterios, candidato):
     for j in range(len(candidato)):
@@ -36,7 +33,6 @@ def aprovados(criterios, candidato):
         print(f'{lista_aprovados[ap][13:]}')
     if len(lista_aprovados) == 0:
         print('Nenhum aprovado!')
-
 
 lista_aprovados = []
 candidato = []
