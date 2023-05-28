@@ -1,20 +1,21 @@
-#  Projeto  Individual  M2  
+##  Projeto individual do modulo 2  (Resilia e Ifood)
 
-##  Projeto individual modulo 2  (Resilia)
+## SISTEMA DE VERIFICAÇÃO PARA CANDIDATOS APROVADOS
 
-## descrição do projeto
-Esse sistema verifica a compatibilidade de um candidato com a vaga de acordo com o resultado nas etapas do processo seletivo. Para isso foi criado um teste que desenvolve uma string no seguinte formato: e _t _p _s, insirindo um valor a cada novo processo seguido pelas perguntas da entrevista, teste teórico, teste prático e avaliação de soft skills.    
+## DESCRIÇÃO DO MEU PROJETO
 
-##  status:  Finalizado
+Esse sistema verifica a compatibilidade de um candidato com a vaga de acordo com o resultado nas etapas do processo seletivo. Para isso foi criado um teste que desenvolve uma string no seguinte formato: e _t _p _s, insirindo um valor a cada novo processo seguido pelas perguntas da entrevista, teste teórico, teste prático, avaliação de soft skills.    
 
-##  Funcionalidade e demosntração:
+## STATUS:  Finalizado e Revisado.
+
+##  FUNCIONALIDADE!
 O avaliador insere todos os candidatos, iniciando pelo candidato 1 onde recebe as 4 avaliacões alcançadas no processo de contratação, e quando acabar de informar as notas, é informado ao usuario se quer proceguir ou não na opção de inserir mais candidatos. Ao final de inserir e definir a nota de corte, vai imprimir os resultados, de acordo com uma nova filtragem será impresso os candidatos aprovados.
 
 
 
-##  Tecnologias utilizadas : VSCODE E O PYTHON
+##  TECNOLOGIAS UTILIZADAS : VSCODE E O PYTHON!
 
-Acesso ao Projeto: Github
+Projeto no Github
 
-##  AUTOR:
-Lucas Vicente Faria
+##  AUTOR
+Lucas Vicente Faria 
